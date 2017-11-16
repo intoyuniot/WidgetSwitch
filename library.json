@@ -1,0 +1,17 @@
+{
+    "name": "WidgetSwitch",
+    "version": "1.0.0",
+    "keywords": "Widget,Switch",
+    "description": "开关应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetSwitch.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
